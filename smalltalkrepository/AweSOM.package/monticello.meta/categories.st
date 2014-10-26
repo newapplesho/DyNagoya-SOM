@@ -8,3 +8,4 @@ SystemOrganization addCategory: #'AweSOM-VM-Test'!
 SystemOrganization addCategory: #'AweSOM-Compiler-Test'!
 SystemOrganization addCategory: #'AweSOM-GarbageCollector-Test'!
 SystemOrganization addCategory: #'AweSOM-Meta'!
+SystemOrganization addCategory: #'AweSOM-DyNagoya-Utility'!

@@ -1,0 +1,14 @@
+{
+	"category" : "AweSOM-DyNagoya-Utility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SOMDUtility",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
