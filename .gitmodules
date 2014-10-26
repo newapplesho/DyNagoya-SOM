@@ -1,0 +1,3 @@
+[submodule "som-code"]
+	path = som-code
+	url = https://github.com/newapplesho/SOM.git
