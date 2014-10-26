@@ -1,0 +1,18 @@
+{
+	"category" : "AweSOM-Interpreter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"frame",
+		"universe",
+		"currentBytecode",
+		"stoppedFrame",
+		"stopped" ],
+	"name" : "SOMInterpreter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

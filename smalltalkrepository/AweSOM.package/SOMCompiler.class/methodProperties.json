@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"inUniverse:on:" : "mkl 5/6/2009 17:38" },
+	"instance" : {
+		"classFileExtension" : "test 4/29/2009 01:39",
+		"classPaths" : "mkl 4/29/2009 15:19",
+		"classPaths:" : "mkl 4/29/2009 15:19",
+		"compileSOMClassSource:stub:" : "StefanMarr 5/14/2012 23:20",
+		"loadAndCompileSOMClass:stub:" : "rkrk 6/5/2009 01:25",
+		"sourceOfClassFile:" : "StefanMarr 10/15/2014 18:01",
+		"universe" : "mkl 5/6/2009 17:37",
+		"universe:" : "mkl 5/6/2009 17:37" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "AweSOM-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"universe" ],
+	"name" : "TestCaseWithUniverse",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

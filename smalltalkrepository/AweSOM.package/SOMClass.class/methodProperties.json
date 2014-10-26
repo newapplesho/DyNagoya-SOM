@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"inUniverse:withSomSuperClass:" : "rkrk 6/5/2009 01:07" },
+	"instance" : {
+		"allInstanceFields" : "rkrk 6/4/2009 21:04",
+		"hasSuperClass" : "rkrk 6/4/2009 21:09",
+		"indexOfInstanceField:" : "StefanMarr 5/18/2012 00:11",
+		"initialize" : "StefanMarr 10/15/2014 18:23",
+		"isClass" : "rkrk 6/4/2009 21:09",
+		"lookupInvokable:" : "arv 6/10/2009 23:39",
+		"numberOfInstanceFields" : "mkl 5/27/2009 16:04",
+		"numberOfSuperInstanceFields" : "rkrk 6/4/2009 21:05",
+		"performPrimitive:withArguments:" : "StefanMarr 5/19/2012 19:27",
+		"primnew" : "mkl 5/27/2009 16:31",
+		"somInstanceFields" : "mkl 5/27/2009 16:03",
+		"somInstanceFields:" : "arv 5/27/2009 17:16",
+		"somInstanceInvokables" : "StefanMarr 5/17/2012 23:51",
+		"somInstanceInvokables:" : "mkl 5/27/2009 16:17",
+		"somName" : "mkl 5/27/2009 16:10",
+		"somName:" : "mkl 5/27/2009 16:10",
+		"somSuperClass" : "mkl 5/27/2009 16:08",
+		"somSuperClass:" : "mkl 5/27/2009 16:09",
+		"squeakClass" : "mkl 5/27/2009 16:13" } }

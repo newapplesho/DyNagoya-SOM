@@ -1,0 +1,22 @@
+{
+	"category" : "AweSOM-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"varName",
+		"mgenc",
+		"universe",
+		"isArgument",
+		"isLocal",
+		"isGlobal",
+		"isField",
+		"index",
+		"contextIndex" ],
+	"name" : "SOMVariableLookup",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assertNoFail:" : "rkrk 4/26/2009 01:44",
+		"parserClass" : "StefanMarr 5/14/2012 23:19",
+		"setUp" : "mkl 5/12/2009 17:38",
+		"setUpParser:" : "rkrk 5/10/2009 01:20",
+		"setUpParser:andApply:" : "rkrk 5/9/2009 00:29",
+		"test01SimpleClassDef" : "rkrk 4/25/2009 23:15",
+		"test02ClassInstVars" : "rkrk 4/25/2009 23:16",
+		"test03RecognizeSpaces" : "rkrk 4/25/2009 23:16",
+		"test04aRecognizeMethodUnary" : "rkrk 6/3/2009 14:35",
+		"test04bRecognizeMethodBinary" : "rkrk 6/3/2009 14:35",
+		"test04cRecognizeKeywordMethod" : "rkrk 6/3/2009 14:36",
+		"test05RecognizeMultipleMethods" : "rkrk 4/26/2009 02:38",
+		"test06RecognizeClassMethods" : "rkrk 4/29/2009 00:38",
+		"test06aRecognizeClassSide" : "rkrk 4/29/2009 00:53",
+		"test06bRecognizeInstanceAndClassSide" : "rkrk 4/29/2009 00:54",
+		"test07AccessInstanceVars" : "rkrk 5/13/2009 14:40" } }

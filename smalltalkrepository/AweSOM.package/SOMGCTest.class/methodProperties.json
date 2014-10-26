@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "rkrk 6/12/2009 01:11",
+		"test01ObjectCollectionExists" : "rkrk 6/12/2009 01:02",
+		"test02CollectUnreferencedObjects" : "rkrk 6/12/2009 01:09",
+		"test03DontCollectGlobalObjects" : "rkrk 6/12/2009 01:14",
+		"test04DontCollectObjectsReferencedFromGlobals" : "StefanMarr 10/15/2014 18:36",
+		"test05CollectObjectsNotReferencedAnymore" : "StefanMarr 10/15/2014 18:39" } }

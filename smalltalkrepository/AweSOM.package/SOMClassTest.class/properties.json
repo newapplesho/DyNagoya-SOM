@@ -1,0 +1,14 @@
+{
+	"category" : "AweSOM-VM-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SOMClassTest",
+	"pools" : [
+		 ],
+	"super" : "TestCaseWithUniverse",
+	"type" : "normal" }

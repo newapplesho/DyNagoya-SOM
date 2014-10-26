@@ -1,0 +1,1 @@
+Bytecodes are currently stored in a separate collection. This is not the way it is implemented in cppsom.

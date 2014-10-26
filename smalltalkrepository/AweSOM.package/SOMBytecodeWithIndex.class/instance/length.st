@@ -1,0 +1,4 @@
+constant
+length
+
+	^ 2

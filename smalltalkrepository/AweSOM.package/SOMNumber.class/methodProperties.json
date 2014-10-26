@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"create:in:" : "rkrk 6/11/2009 21:39",
+		"inUniverse:new:" : "rkrk 6/11/2009 21:50" },
+	"instance" : {
+		"basicNumber:" : "rkrk 6/11/2009 21:40",
+		"isSOMNumber" : "rkrk 6/12/2009 02:01",
+		"number" : "mkl 5/6/2009 17:01",
+		"primAnd:" : "mha 9/17/2010 16:42",
+		"primEqual:" : "arv 5/27/2009 16:40",
+		"primLowerThan:" : "arv 5/24/2009 16:59",
+		"primMinus:" : "mkl 5/6/2009 18:48",
+		"primPercent:" : "mkl 5/6/2009 18:51",
+		"primPlus:" : "mkl 5/6/2009 18:48",
+		"primSlashSlash:" : "arv 5/27/2009 00:36",
+		"primStar:" : "mkl 5/6/2009 18:49",
+		"primasString" : "arv 5/27/2009 00:25",
+		"primsqrt" : "rkrk 5/29/2009 03:55",
+		"printOn:" : "rkrk 5/6/2009 21:25" } }

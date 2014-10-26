@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"inUniverse:string:" : "rkrk 5/9/2009 01:21" },
+	"instance" : {
+		"=" : "mkl 5/26/2009 16:29",
+		"hash" : "mkl 5/26/2009 16:29",
+		"primEqual:" : "mkl 5/26/2009 16:31",
+		"primasSymbol" : "mkl 5/26/2009 16:33",
+		"primconcatenate:" : "arv 5/24/2009 17:51",
+		"primhashcode" : "mkl 5/26/2009 16:32",
+		"primlength" : "mkl 5/26/2009 16:32",
+		"primobjectSize" : "arv 6/3/2009 17:32",
+		"primprimSubstringFrom:to:" : "mha 9/17/2010 17:00",
+		"printOn:" : "rkrk 5/8/2009 21:48",
+		"string" : "mkl 5/1/2009 10:19",
+		"string:" : "mkl 5/1/2009 10:19" } }

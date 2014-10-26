@@ -1,0 +1,14 @@
+{
+	"category" : "AweSOM-Compiler-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ParseCompleteClassTest",
+	"pools" : [
+		 ],
+	"super" : "ParseClassTest",
+	"type" : "normal" }

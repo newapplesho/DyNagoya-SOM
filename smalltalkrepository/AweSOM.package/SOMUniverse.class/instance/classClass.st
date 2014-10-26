@@ -1,0 +1,3 @@
+universe configuration
+classClass
+	^ SOMClass

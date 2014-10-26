@@ -1,0 +1,16 @@
+{
+	"category" : "AweSOM-CoreObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"somSignature",
+		"somHolder",
+		"somNumberOfArguments" ],
+	"name" : "SOMInvokable",
+	"pools" : [
+		 ],
+	"super" : "SOMObject",
+	"type" : "normal" }

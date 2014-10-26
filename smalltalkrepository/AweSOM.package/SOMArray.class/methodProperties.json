@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"inUniverse:size:" : "rkrk 5/13/2009 11:33",
+		"inUniverse:withAll:" : "rkrk 5/13/2009 11:40",
+		"primnew:inSomClass:" : "StefanMarr 5/19/2012 19:25" },
+	"instance" : {
+		"add:" : "arv 5/20/2009 03:20",
+		"at:" : "test 5/6/2009 16:11",
+		"at:put:" : "test 5/6/2009 16:11",
+		"copyFrom:to:" : "arv 6/4/2009 10:13",
+		"do:" : "arv 5/13/2009 12:38",
+		"elements" : "mkl 5/13/2009 16:27",
+		"indexOf:" : "arv 5/21/2009 17:25",
+		"primat:" : "mkl 5/20/2009 15:53",
+		"primat:put:" : "mkl 5/20/2009 15:54",
+		"primlength" : "mkl 5/20/2009 15:54",
+		"printOn:" : "StefanMarr 5/22/2012 20:00",
+		"resize:" : "arv 5/17/2009 14:14",
+		"size" : "arv 5/13/2009 12:37",
+		"wipeIndexableFields" : "mha 10/29/2010 13:20",
+		"withIndexDo:" : "arv 5/13/2009 12:37" } }

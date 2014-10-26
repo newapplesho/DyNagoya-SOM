@@ -1,0 +1,3 @@
+universe configuration
+methodClass
+	^ SOMMethod

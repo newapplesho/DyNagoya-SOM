@@ -1,0 +1,18 @@
+{
+	"category" : "AweSOM-CoreObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mkl 4/30/2009 22:59",
+	"instvars" : [
+		"numberOfLocals",
+		"maxStackDepth",
+		"bytecodes",
+		"constants",
+		"lexicalContext" ],
+	"name" : "SOMMethod",
+	"pools" : [
+		 ],
+	"super" : "SOMInvokable",
+	"type" : "normal" }

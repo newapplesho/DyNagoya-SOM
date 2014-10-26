@@ -1,0 +1,3 @@
+patterns
+variable
+	^ self identifier

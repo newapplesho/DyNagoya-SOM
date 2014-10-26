@@ -1,0 +1,14 @@
+{
+	"category" : "AweSOM-VM",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"universe" ],
+	"name" : "SOMSymbolTable",
+	"pools" : [
+		 ],
+	"super" : "IdentityDictionary",
+	"type" : "normal" }

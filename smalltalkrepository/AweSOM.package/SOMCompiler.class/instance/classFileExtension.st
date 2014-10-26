@@ -1,0 +1,4 @@
+file access
+classFileExtension
+
+	^ '.som'

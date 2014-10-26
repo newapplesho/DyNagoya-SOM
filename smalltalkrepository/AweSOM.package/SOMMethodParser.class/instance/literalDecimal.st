@@ -1,0 +1,3 @@
+patterns
+literalDecimal
+	^ self literalInteger.

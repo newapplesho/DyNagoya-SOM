@@ -1,0 +1,14 @@
+{
+	"category" : "AweSOM-Meta",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SOMTools",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

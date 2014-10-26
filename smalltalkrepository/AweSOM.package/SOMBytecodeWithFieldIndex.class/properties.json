@@ -1,0 +1,14 @@
+{
+	"category" : "AweSOM-Interpreter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"fieldIndex" ],
+	"name" : "SOMBytecodeWithFieldIndex",
+	"pools" : [
+		 ],
+	"super" : "SOMBytecodeWithIndex",
+	"type" : "normal" }

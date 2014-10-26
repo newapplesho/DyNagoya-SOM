@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "rkrk 5/26/2009 21:53",
+		"test01Push" : "arv 5/13/2009 15:38",
+		"test02Pop" : "arv 5/12/2009 16:23",
+		"test03Context" : "arv 5/13/2009 11:26",
+		"test04StackSize" : "arv 5/12/2009 16:23",
+		"test05CallPrimitive" : "mkl 5/27/2009 16:23" } }

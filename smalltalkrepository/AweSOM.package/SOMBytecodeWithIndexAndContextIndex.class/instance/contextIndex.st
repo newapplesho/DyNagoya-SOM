@@ -1,0 +1,3 @@
+accessing
+contextIndex
+	^ contextIndex

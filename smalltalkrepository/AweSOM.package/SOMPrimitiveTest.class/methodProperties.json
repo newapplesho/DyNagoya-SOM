@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"test01AddIntegers" : "mkl 5/27/2009 15:30",
+		"test02AsString" : "mha 9/17/2010 16:45",
+		"test03PrimitiveNames" : "arv 5/13/2009 11:32",
+		"test04PrimitiveNew" : "mkl 5/27/2009 15:30",
+		"test05PrimitiveComparison" : "mkl 5/26/2009 16:39" } }

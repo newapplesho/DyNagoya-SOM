@@ -1,0 +1,4 @@
+gobal accessing
+globals
+
+	^ globals

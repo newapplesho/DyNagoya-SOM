@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"in:" : "rkrk 6/11/2009 21:24" },
+	"instance" : {
+		"allocateFor:" : "rkrk 6/12/2009 11:49",
+		"basicAllocateFor:" : "rkrk 6/12/2009 11:49",
+		"collectGarbage" : "rkrk 6/12/2009 11:20",
+		"defaultMaxObjects" : "rkrk 6/12/2009 02:27",
+		"initialize" : "rkrk 6/12/2009 01:02",
+		"mark" : "rkrk 6/12/2009 01:17",
+		"markObject:" : "rkrk 6/12/2009 02:06",
+		"maxSize" : "rkrk 6/12/2009 01:01",
+		"maxSize:" : "rkrk 6/12/2009 01:01",
+		"objects" : "rkrk 6/11/2009 21:00",
+		"objects:" : "rkrk 6/11/2009 21:00",
+		"rootObjects" : "rkrk 6/12/2009 02:02",
+		"sweep" : "rkrk 6/12/2009 01:27",
+		"universe" : "rkrk 6/11/2009 21:24",
+		"universe:" : "rkrk 6/11/2009 21:24" } }

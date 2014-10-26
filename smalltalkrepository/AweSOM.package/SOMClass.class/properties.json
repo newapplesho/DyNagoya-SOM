@@ -1,0 +1,17 @@
+{
+	"category" : "AweSOM-CoreObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"somSuperClass",
+		"somName",
+		"somInstanceFields",
+		"somInstanceInvokables" ],
+	"name" : "SOMClass",
+	"pools" : [
+		 ],
+	"super" : "SOMObject",
+	"type" : "normal" }

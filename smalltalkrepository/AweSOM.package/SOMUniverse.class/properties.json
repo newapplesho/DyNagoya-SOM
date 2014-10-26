@@ -1,0 +1,22 @@
+{
+	"category" : "AweSOM-VM",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ClassPaths",
+		"Default",
+		"DefaultInterpreter",
+		"UseOMeta" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"globals",
+		"interpreter",
+		"outStream",
+		"heap",
+		"symbolTable",
+		"numberCache" ],
+	"name" : "SOMUniverse",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "AweSOM-Interpreter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"originalBytecode",
+		"owningFrames" ],
+	"name" : "SOMBCStep",
+	"pools" : [
+		 ],
+	"super" : "SOMBytecode",
+	"type" : "normal" }

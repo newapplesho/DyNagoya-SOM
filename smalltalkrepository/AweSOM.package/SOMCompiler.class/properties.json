@@ -1,0 +1,15 @@
+{
+	"category" : "AweSOM-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"universe",
+		"classPaths" ],
+	"name" : "SOMCompiler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

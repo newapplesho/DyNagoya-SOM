@@ -1,0 +1,3 @@
+accessing
+numberOfFields
+	^ fields size

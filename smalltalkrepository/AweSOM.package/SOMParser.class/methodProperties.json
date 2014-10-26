@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"inUniverse:onSource:" : "StefanMarr 5/10/2012 21:25",
+		"initialize" : "StefanMarr 5/10/2012 22:35" },
+	"instance" : {
+		"accept:" : "StefanMarr 5/13/2012 12:16",
+		"apply:" : "StefanMarr 5/10/2012 21:58",
+		"cgenc" : "StefanMarr 5/9/2012 23:15",
+		"cgenc:" : "StefanMarr 5/9/2012 23:16",
+		"expect:" : "StefanMarr 5/13/2012 12:15",
+		"getSym" : "StefanMarr 5/10/2012 23:03",
+		"identifier" : "StefanMarr 5/15/2012 22:28",
+		"initialize" : "StefanMarr 5/13/2012 14:32",
+		"methodParser" : "StefanMarr 5/18/2012 16:07",
+		"parseState" : "StefanMarr 5/13/2012 18:20",
+		"parseState:" : "StefanMarr 5/13/2012 18:21",
+		"peek" : "StefanMarr 5/10/2012 23:03",
+		"printableSymbol" : "StefanMarr 5/17/2012 20:27",
+		"shouldReadSources" : "StefanMarr 5/13/2012 14:31",
+		"shouldReadSources:" : "StefanMarr 5/13/2012 14:31",
+		"stream:" : "StefanMarr 5/13/2012 18:52",
+		"symIn:" : "StefanMarr 5/13/2012 12:27",
+		"symIsIdentifier" : "StefanMarr 5/17/2012 20:23",
+		"universe" : "StefanMarr 5/9/2012 23:16",
+		"universe:" : "StefanMarr 5/9/2012 23:16",
+		"variable" : "StefanMarr 5/13/2012 12:27" } }

@@ -1,0 +1,4 @@
+accessing
+symbol
+
+	^ string

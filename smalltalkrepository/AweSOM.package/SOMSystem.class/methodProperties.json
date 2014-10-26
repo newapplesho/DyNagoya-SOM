@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"successCode" : "arv 5/24/2009 22:57" },
+	"instance" : {
+		"primexit:" : "rkrk 5/25/2009 00:54",
+		"primfullGC" : "rkrk 6/2/2009 20:24",
+		"primglobal:" : "arv 5/26/2009 00:32",
+		"primglobal:put:" : "arv 5/26/2009 00:24",
+		"primload:" : "rkrk 6/5/2009 01:04",
+		"primprintNewline" : "rkrk 6/3/2009 19:37",
+		"primprintString:" : "rkrk 6/3/2009 19:36",
+		"primtime" : "rkrk 6/5/2009 02:50" } }
