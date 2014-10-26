@@ -5,9 +5,12 @@ setClassPathBase: basePath
 	| standard examples dir |
 	standard := {basePath , '/Smalltalk'.
 				   basePath , '/TestSuite'.
-				   basePath , '/SUnit'}.
+				   basePath , '/SUnit'.
+				   basePath , '/Omni' }.
 	
-	dir := (basePath , '/Examples') asFileReference.
-	examples := dir allDirectories
-		collect: [:ea | ea asAbsolute fullName ].
+	
+	dir := FileDirectory on: basePath , '/Examples'.
+	examples := dir directoryNames
+		select: [:ea | (ea beginsWith: '.') not]
+		thenCollect: [:ea | dir fullPathFor: ea].
 	^ SOMUniverse classPaths: standard , examples.

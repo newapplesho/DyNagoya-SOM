@@ -1,7 +1,7 @@
 instance creation
 inUniverse: universe withSomClass: aSOMClass numIndexable: numIndexable 
 	| numberOfAdditionalFields |
-	numberOfAdditionalFields := aSOMClass numberOfInstanceFields.
+	numberOfAdditionalFields := aSOMClass numberOfInstanceFields - self numberOfSharedFields.
 	^ (self 
 		inUniverse: universe
 		withNumberOfAdditionalFields: numberOfAdditionalFields

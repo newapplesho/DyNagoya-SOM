@@ -7,4 +7,5 @@ primobjectSize
 	word is 4 byte and objectSize returns the size in bytes (32-bit aligned)"
 	^ self universe newNumber:
 		(self class instSize - 1 +
+		self numberOfSharedFields +
 		self numberOfIndexableFields) * 4

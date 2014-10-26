@@ -1,6 +1,8 @@
 tests
 test01CreateSimpleObject
-	| object |
+	| object somFieldCnt |
+	somFieldCnt := SOMObject allSharedFields size.
+	
 	object := SOMObject inUniverse: universe withNumberOfAdditionalFields: 1.
 	
 	
@@ -9,6 +11,6 @@ test01CreateSimpleObject
 		assert: (object fieldAtIndex: 1)
 		equals: (universe globalAt: #nil)."
 	self 
-		assert: (object fieldAtIndex: 1)
+		assert: (object fieldAtIndex: somFieldCnt + 1)
 		equals: (universe globalNil).
-	self assert: object numberOfFields equals: 1.
+	self assert: object numberOfFields equals: somFieldCnt + 1.

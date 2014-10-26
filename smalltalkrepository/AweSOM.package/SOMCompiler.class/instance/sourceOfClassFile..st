@@ -1,14 +1,14 @@
 file access
 sourceOfClassFile: className
 
-	| classFile theDir source stream |
+	| classFile theDir source |
 	classFile := className , self classFileExtension.
 	theDir := (self classPaths
-		collect: [:path | path asFileReference ])
-		detect: [:dir | (dir resolveString: classFile) exists ]
+		collect: [:path |FileDirectory on: path])
+		detect: [:dir | dir fileExists: classFile]
 		ifNone: [^ nil].
 	"theDir ifNil: [self error: 'Cannot find class in classPath']."
-	stream := (theDir resolveString: classFile) readStream.
-	source := stream contents.
-	stream close.
+	FileStream
+		fileNamed: (theDir fullPathFor: classFile)
+		do: [:s | source := s contents].
 	^ source

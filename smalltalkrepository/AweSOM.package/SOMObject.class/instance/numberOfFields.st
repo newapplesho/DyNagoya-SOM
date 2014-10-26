@@ -1,3 +1,3 @@
 accessing
 numberOfFields
-	^ fields size
+	^ self class numberOfSharedFields + fields size

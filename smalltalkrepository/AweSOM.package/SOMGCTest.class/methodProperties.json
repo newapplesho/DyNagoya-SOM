@@ -6,5 +6,5 @@
 		"test01ObjectCollectionExists" : "rkrk 6/12/2009 01:02",
 		"test02CollectUnreferencedObjects" : "rkrk 6/12/2009 01:09",
 		"test03DontCollectGlobalObjects" : "rkrk 6/12/2009 01:14",
-		"test04DontCollectObjectsReferencedFromGlobals" : "StefanMarr 10/15/2014 18:36",
-		"test05CollectObjectsNotReferencedAnymore" : "StefanMarr 10/15/2014 18:39" } }
+		"test04DontCollectObjectsReferencedFromGlobals" : "rkrk 6/12/2009 01:29",
+		"test05CollectObjectsNotReferencedAnymore" : "rkrk 6/12/2009 01:30" } }
