@@ -1,0 +1,16 @@
+{
+	"category" : "AweSOM-GarbageCollector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"universe",
+		"objects",
+		"maxSize" ],
+	"name" : "SOMHeap",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

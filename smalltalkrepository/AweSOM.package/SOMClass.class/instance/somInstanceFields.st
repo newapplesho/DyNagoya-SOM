@@ -1,0 +1,3 @@
+accessing
+somInstanceFields
+	^ somInstanceFields

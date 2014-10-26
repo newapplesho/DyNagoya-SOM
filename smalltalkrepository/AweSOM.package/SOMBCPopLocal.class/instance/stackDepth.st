@@ -1,0 +1,4 @@
+accessing
+stackDepth
+
+	^ -1

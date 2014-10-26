@@ -1,0 +1,14 @@
+{
+	"category" : "AweSOM-Interpreter",
+	"classinstvars" : [
+		"instructionName" ],
+	"classvars" : [
+		"InstructionSelectorDict" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mgenc" ],
+	"name" : "SOMBytecode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"test01ObjectCreation" : "rkrk 6/4/2009 19:52",
+		"test02Subclassing" : "StefanMarr 5/19/2012 21:39",
+		"test03LookupOfFields" : "rkrk 6/5/2009 02:25",
+		"test04LookupOfFieldDefinedInSuperclass" : "rkrk 6/5/2009 02:25",
+		"test05ClassDoesNotRegisterInUniverseAfterCompiling" : "rkrk 6/5/2009 02:26",
+		"test06ClassClassHasCorrectInstanceFields" : "rkrk 6/4/2009 19:04",
+		"test07MetaClassHasInstanceFields" : "rkrk 6/5/2009 02:25" } }

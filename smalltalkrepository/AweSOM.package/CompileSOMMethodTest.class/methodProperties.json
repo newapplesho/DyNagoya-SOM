@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createMgencFromSource:" : "StefanMarr 5/14/2012 23:17",
+		"test01BuildSimpleMethod" : "StefanMarr 5/17/2012 16:17",
+		"test02BuildByteCode" : "arv 5/13/2009 23:44",
+		"test02BuildMethodWithConstants" : "mkl 5/13/2009 16:44" } }

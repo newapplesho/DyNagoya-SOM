@@ -1,0 +1,4 @@
+accessing
+currentBytecode
+
+	^ currentBytecode

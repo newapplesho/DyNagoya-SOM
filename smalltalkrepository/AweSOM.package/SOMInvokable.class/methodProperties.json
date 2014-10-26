@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"inUniverse:named:numArgs:" : "mkl 5/27/2009 16:23" },
+	"instance" : {
+		"initialize" : "mkl 5/27/2009 16:20",
+		"invokeInFrame:" : "arv 5/12/2009 01:08",
+		"numberOfArguments" : "mkl 5/27/2009 16:20",
+		"numberOfArguments:" : "rkrk 6/11/2009 21:29",
+		"primsignature" : "t6s 3/30/2014 17:05",
+		"printOn:" : "StefanMarr 5/24/2012 13:06",
+		"somHolder" : "mkl 5/27/2009 16:20",
+		"somHolder:" : "mkl 5/27/2009 16:20",
+		"somSignature" : "StefanMarr 5/18/2012 00:03",
+		"somSignature:" : "mkl 5/27/2009 16:19" } }

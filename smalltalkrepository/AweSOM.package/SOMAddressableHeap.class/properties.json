@@ -1,0 +1,14 @@
+{
+	"category" : "AweSOM-GarbageCollector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SOMAddressableHeap",
+	"pools" : [
+		 ],
+	"super" : "SOMHeap",
+	"type" : "normal" }

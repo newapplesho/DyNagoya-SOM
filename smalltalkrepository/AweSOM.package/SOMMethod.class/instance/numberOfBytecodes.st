@@ -1,0 +1,3 @@
+accessing
+numberOfBytecodes
+	^ bytecodes size

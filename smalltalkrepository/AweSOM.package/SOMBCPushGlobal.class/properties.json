@@ -1,0 +1,14 @@
+{
+	"category" : "AweSOM-Interpreter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SOMBCPushGlobal",
+	"pools" : [
+		 ],
+	"super" : "SOMBytecodeWithIndex",
+	"type" : "normal" }

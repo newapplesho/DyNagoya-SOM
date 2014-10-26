@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"parserClass" : "StefanMarr 5/14/2012 23:19",
+		"setUpParser:" : "rkrk 5/10/2009 01:35",
+		"test01SimpleMethodDef" : "rkrk 6/3/2009 14:31",
+		"test02ParseArguments" : "rkrk 9/15/2009 15:00",
+		"test03FakeParseBody" : "rkrk 5/27/2009 15:27",
+		"test04Primitive" : "StefanMarr 5/13/2012 14:48",
+		"test05PrimitiveMethodGeneratesBody" : "rkrk 5/10/2009 01:40",
+		"test06PrimitiveWithParameters" : "rkrk 5/10/2009 01:39",
+		"test07LocalVars" : "rkrk 5/6/2009 13:59",
+		"test08SystemResolveMethod" : "test 5/10/2009 03:28",
+		"test09HashEntryRun" : "rkrk 5/27/2009 15:21",
+		"test10BigIntegerTestRun" : "rkrk 5/27/2009 16:52",
+		"test11ReflectionTestRun" : "rkrk 5/27/2009 17:08",
+		"test12SimpleOperatorMethodDef" : "StefanMarr 5/13/2012 17:36" } }

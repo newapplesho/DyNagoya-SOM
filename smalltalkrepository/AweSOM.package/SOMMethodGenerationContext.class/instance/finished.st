@@ -1,0 +1,4 @@
+accessing
+finished
+
+	isFinished := true

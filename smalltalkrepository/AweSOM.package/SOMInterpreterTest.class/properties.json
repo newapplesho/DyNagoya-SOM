@@ -1,0 +1,15 @@
+{
+	"category" : "AweSOM-VM-Test",
+	"classinstvars" : [
+		"mgec",
+		"callerFrame" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"interpreter" ],
+	"name" : "SOMInterpreterTest",
+	"pools" : [
+		 ],
+	"super" : "TestCaseWithUniverse",
+	"type" : "normal" }

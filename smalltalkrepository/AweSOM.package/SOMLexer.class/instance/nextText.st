@@ -1,0 +1,3 @@
+accessing
+nextText
+	^ nextText asString

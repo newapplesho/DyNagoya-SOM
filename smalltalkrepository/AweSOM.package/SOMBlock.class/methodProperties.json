@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"cacheEvaluationMethodWithParameters:" : "mkl 5/27/2009 16:16",
+		"createEvalutationMethodWithParameters:" : "mkl 5/27/2009 16:23",
+		"evaluationMethodWithParameters:" : "arv 5/26/2009 15:49",
+		"primrestart" : "arv 5/25/2009 00:30",
+		"somBlockMethod" : "mkl 5/27/2009 15:44",
+		"somBlockMethod:" : "mkl 5/27/2009 15:44",
+		"somContext" : "mkl 5/27/2009 15:44",
+		"somContext:" : "mkl 5/27/2009 15:44" } }

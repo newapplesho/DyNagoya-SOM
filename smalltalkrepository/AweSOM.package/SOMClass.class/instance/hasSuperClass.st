@@ -1,0 +1,4 @@
+testing
+hasSuperClass
+
+	^ somSuperClass isClass

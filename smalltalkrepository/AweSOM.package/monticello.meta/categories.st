@@ -1,0 +1,10 @@
+SystemOrganization addCategory: #'AweSOM-VM'!
+SystemOrganization addCategory: #'AweSOM-Compiler'!
+SystemOrganization addCategory: #'AweSOM-Interpreter'!
+SystemOrganization addCategory: #'AweSOM-CoreObjects'!
+SystemOrganization addCategory: #'AweSOM-GarbageCollector'!
+SystemOrganization addCategory: #'AweSOM-Test'!
+SystemOrganization addCategory: #'AweSOM-VM-Test'!
+SystemOrganization addCategory: #'AweSOM-Compiler-Test'!
+SystemOrganization addCategory: #'AweSOM-GarbageCollector-Test'!
+SystemOrganization addCategory: #'AweSOM-Meta'!

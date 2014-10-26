@@ -1,0 +1,20 @@
+{
+	"category" : "AweSOM-CoreObjects",
+	"classinstvars" : [
+		"RealFieldIndexCache",
+		"NumberOfSharedFieldsCache" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"universe",
+		"theHash",
+		"fields",
+		"indexableFields",
+		"gcField",
+		"somClass" ],
+	"name" : "SOMObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

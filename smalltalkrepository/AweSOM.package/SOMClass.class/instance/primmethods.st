@@ -1,0 +1,3 @@
+primitives
+primmethods
+	^ somInstanceInvokables 

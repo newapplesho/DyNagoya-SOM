@@ -1,0 +1,3 @@
+accessing
+numberOfArguments
+	^ somNumberOfArguments number

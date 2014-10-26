@@ -1,0 +1,19 @@
+{
+	"category" : "AweSOM-CoreObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"somPreviousFrame",
+		"somContext",
+		"somMethod",
+		"stackPointer",
+		"bytecodeIndex",
+		"localOffset" ],
+	"name" : "SOMFrame",
+	"pools" : [
+		 ],
+	"super" : "SOMArray",
+	"type" : "normal" }

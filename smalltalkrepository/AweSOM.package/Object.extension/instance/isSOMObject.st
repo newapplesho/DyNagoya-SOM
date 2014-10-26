@@ -1,0 +1,4 @@
+*AweSOM
+isSOMObject
+
+	^ false

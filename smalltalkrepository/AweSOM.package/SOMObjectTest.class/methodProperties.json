@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"test01CreateSimpleObject" : "StefanMarr 5/18/2012 17:00",
+		"test02FieldAccess" : "mkl 5/3/2009 12:01",
+		"test03aSharedFields" : "StefanMarr 5/18/2012 17:01",
+		"test03bSharedFields" : "StefanMarr 5/19/2012 21:38",
+		"test04Array" : "rkrk 5/13/2009 11:17",
+		"test04bArray" : "mkl 5/27/2009 16:32",
+		"test05UniverseAccess" : "rkrk 5/13/2009 11:19" } }

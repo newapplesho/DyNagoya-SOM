@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assertSuperClassOf:is:" : "rkrk 6/5/2009 00:53",
+		"compileSource:" : "rkrk 6/5/2009 02:26",
+		"createCgencFromSource:" : "StefanMarr 5/14/2012 23:16",
+		"test01SimpleClassCreation" : "rkrk 6/4/2009 13:28",
+		"test02CompileClass" : "mkl 5/27/2009 15:55",
+		"test03CompileClassWithMethod" : "mkl 5/27/2009 16:16",
+		"test04CompileClassWithSuperclass" : "mkl 5/27/2009 16:08",
+		"test05UnsharedFieldInMethodSubClass" : "StefanMarr 5/13/2012 18:39",
+		"test06AssembleNormalClass" : "rkrk 6/4/2009 14:39",
+		"xtest07InternalClassHierarchyEqualsSomClassHierarchy" : "rkrk 6/5/2009 00:55" } }

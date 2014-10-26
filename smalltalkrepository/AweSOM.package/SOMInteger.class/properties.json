@@ -1,0 +1,14 @@
+{
+	"category" : "AweSOM-CoreObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SOMInteger",
+	"pools" : [
+		 ],
+	"super" : "SOMNumber",
+	"type" : "normal" }

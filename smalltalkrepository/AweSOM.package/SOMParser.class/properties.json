@@ -1,0 +1,22 @@
+{
+	"category" : "AweSOM-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"BinaryOpSyms",
+		"KeywordSelectorSyms",
+		"SingleOpSyms" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"universe",
+		"cgenc",
+		"sym",
+		"text",
+		"lexer",
+		"nextSym",
+		"shouldReadSources" ],
+	"name" : "SOMParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

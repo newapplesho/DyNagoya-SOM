@@ -1,0 +1,14 @@
+{
+	"category" : "AweSOM-VM-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SOMFakeObjectTest",
+	"pools" : [
+		 ],
+	"super" : "SOMObjectTest",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+accessing
+isPushBlock
+	^ false

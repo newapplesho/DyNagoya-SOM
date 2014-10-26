@@ -1,0 +1,14 @@
+{
+	"category" : "AweSOM-CoreObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SOMBlockEvaluation",
+	"pools" : [
+		 ],
+	"super" : "SOMInvokable",
+	"type" : "normal" }

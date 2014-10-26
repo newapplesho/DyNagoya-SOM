@@ -1,0 +1,24 @@
+{
+	"category" : "AweSOM-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stream",
+		"text",
+		"nextText",
+		"lineNumber",
+		"peekDone",
+		"sym",
+		"nextSym",
+		"symChr",
+		"nextSymChr",
+		"buf",
+		"bufP" ],
+	"name" : "SOMLexer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

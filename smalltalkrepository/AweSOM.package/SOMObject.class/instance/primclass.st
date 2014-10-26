@@ -1,0 +1,3 @@
+primitives
+primclass
+	^somClass

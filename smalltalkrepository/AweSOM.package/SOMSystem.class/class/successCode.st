@@ -1,0 +1,4 @@
+constants
+successCode
+
+	^ 0

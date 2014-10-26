@@ -1,0 +1,20 @@
+{
+	"category" : "AweSOM-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"superName",
+		"isClassSide",
+		"instanceFields",
+		"instanceMethods",
+		"classFields",
+		"classMethods",
+		"theName" ],
+	"name" : "SOMClassGenerationContext",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
